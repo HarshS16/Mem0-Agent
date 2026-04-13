@@ -1,0 +1,30 @@
+# Environment variables
+.env
+
+# Python compilation files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Custom Test Scripts
+test_intent.py
+test_mem0.py
+
+# Ignore dynamic AI generated files in the output directory
+# (but keep the output folder itself if we want by adding a .gitkeep later)
+output/*
+!output/.gitkeep
+
+# OS generated files
+.DS_Store
+Thumbs.db
