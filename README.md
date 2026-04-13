@@ -8,6 +8,7 @@ This project was built iteratively, integrating robust edge-case handling, dynam
 ---
 
 ## Demo Video : https://youtu.be/7DlyI9wOGCk
+## Medium Article : https://medium.com/@harsh-jsx/building-a-voice-controlled-local-ai-agent-from-audio-to-action-9973b17e7138
 
 
 
