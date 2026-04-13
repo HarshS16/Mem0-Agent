@@ -7,6 +7,10 @@ This project was built iteratively, integrating robust edge-case handling, dynam
 
 ---
 
+## Demo Video : https://youtu.be/7DlyI9wOGCk
+
+
+
 ## ⚡ Architecture
 - **Framework:** Streamlit (Python 3.14+)
 - **Audio Inputs:** Streamlit Native `st.audio_input` & `st.file_uploader`.
